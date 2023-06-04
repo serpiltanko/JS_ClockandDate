@@ -1,2 +1,2 @@
-# IlkOdev-ClockandDate
-app.patika.dev
+# ClockandDate
+
